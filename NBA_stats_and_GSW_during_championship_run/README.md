@@ -8,6 +8,6 @@ The project has been broken into separate sections:
 * <a href="https://github.com/ant-L/Portfolio_Projects/blob/master/NBA_stats_and_GSW_during_championship_run/Basketball_Ref_EDA.ipynb">Exploratory data analysis</a>
 * <a href="https://github.com/ant-L/Portfolio_Projects/blob/master/NBA_stats_and_GSW_during_championship_run/Basketball_Ref_Model_Prediction.ipynb">Model prediction</a>
 
-Here's my introductory post for this <a href="https://sempercrescens.blogspot.com/2019/07/nba-statistics-and-golden-state.html"> project</a> on my blog. 
+Here's my introductory post for this <a href="https://sempercrescens.blogspot.com/2019/07/nba-statistics-and-golden-state.html"> project</a> on my blog. You can also follow this project on <a href="https://medium.com/better-programming/nba-statistics-and-the-golden-state-warriors-during-their-championship-runs-part-1-cafc5d8042a8">Medium</a>. 
 
 Feel free to comment or send a message if you have any questions or suggestions.
